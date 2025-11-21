@@ -1,0 +1,19 @@
+Here is a **simple and clean table** showing the **Differences between Public, Private, and Consortium Blockchain** — perfect for exam writing.
+
+---
+
+# **Difference Between Public, Private, and Consortium Blockchain**
+
+| **Feature**      | **Public Blockchain**                    | **Private Blockchain**               | **Consortium Blockchain**                     |
+| ---------------- | ---------------------------------------- | ------------------------------------ | --------------------------------------------- |
+| **Access**       | Open to everyone                         | Only selected users                  | Controlled by a group of organizations        |
+| **Control**      | No single owner (fully decentralized)    | One central organization controls it | Shared control between multiple organizations |
+| **Transparency** | Fully transparent                        | Limited transparency                 | Partially transparent                         |
+| **Speed**        | Slower (many users validate)             | Faster (fewer users)                 | Faster than public, slower than private       |
+| **Security**     | Very secure but vulnerable to 51% attack | Highly secure internally             | Secure due to multiple trusted parties        |
+| **Examples**     | Bitcoin, Ethereum                        | Hyperledger, Ripple                  | Banking consortiums, Supply chain networks    |
+| **Use Cases**    | Cryptocurrency, open networks            | Internal company operations          | Banking, supply chain, multi-company projects |
+
+---
+
+If you want, I can also give **short notes** or **3–5 mark paragraphs** for each type.
