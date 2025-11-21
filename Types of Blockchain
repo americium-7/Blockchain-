@@ -1,0 +1,33 @@
+
+1. Public Blockchain
+
+A public blockchain is open for everyone.
+Anyone can join, read data, and add new transactions.
+It is fully decentralized and transparent.
+
+Examples: Bitcoin, Ethereum
+
+Easy words:
+Anyone can join and see everything.
+
+2. Private Blockchain
+
+A private blockchain is controlled by one organization.
+Only selected users are allowed to join and access data.
+It is not fully decentralized but is faster and more secure for internal use.
+
+Examples: Hyperledger, Ripple (used in banks)
+
+Easy words:
+Only invited people can use it.
+
+3. Consortium (Federated) Blockchain
+
+A consortium blockchain is managed by a group of organizations instead of one.
+Multiple trusted members share control and maintain the network.
+It is more secure and balanced than a private blockchain.
+
+Examples: Banking groups, supply chain companies
+
+Easy words:
+A group of companies control the blockchain together.
